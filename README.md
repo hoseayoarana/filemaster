@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <img src="https://raw.githubusercontent.com/filegator/filegator/master/dist/img/logo.gif">
 </p>
@@ -161,3 +162,7 @@ If you discover any security related issues, please email alcalbg@gmail.com inst
 Copyright (c) 2019 [Milos Stojanovic](https://github.com/alcalbg).
 
 This project is MIT licensed.
+=======
+# filemaster
+filesystem
+>>>>>>> 2a1b51c156980f3a13688c1a32a6a7a2b1ff5f7c
